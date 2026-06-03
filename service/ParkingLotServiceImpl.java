@@ -1,5 +1,7 @@
 package service;
 
+import exception.ParkingLotFullException;
+import exception.VehicleNotFoundException;
 import model.ParkingSpot;
 import model.ParkingTicket;
 import model.Vehicle;
